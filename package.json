@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/SudhanPlayz/Starter-Discord.js-Bot/issues"
   },
-  "homepage": "https://github.com/SudhanPlayz/Starter-Discord.js-Bot#readme"
+  "homepage": "https://github.com/SudhanPlayz/Starter-Discord.js-Bot#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
 }
